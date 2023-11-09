@@ -1,0 +1,105 @@
+body {
+	background-color: rgba(94, 89, 89, 0.699);
+	color: #ffffff;
+	font-weight: 600;
+}
+
+.main {
+	position: relative;
+	background: url("image/img 10.jpg");
+	background-size: cover;
+	margin: center;
+	margin: 2%;
+	padding: 1%;
+	height: 150%;
+
+}
+
+HEADER {
+	background: rgb(72, 73, 83);
+	padding-LEFT: 8%;
+	margin: 1% 05% 0% 0%;
+	width: 90%;
+	font-weight: bold;
+}
+
+header p {
+	display: inline-block;
+	float: right;
+	text-align: right;
+	margin: 10px;
+}
+
+.button {
+	text-align: center;
+	border-radius: 50%;
+	width: 100px;
+	height: 30px;
+	margin-left: -70px;
+	margin-top: 5px;
+	background-color: #0ef10a80;
+}
+
+.ALL {
+	position: relative;
+}
+
+.PR {
+	WIDTH: 56%;
+	HEIGHT: 50%;
+	display: inline-block;
+	border: 2PX;
+
+}
+
+.PR P {
+	display: inline-block;
+	bORDER: 1PX;
+	margin-top: 0px;
+	margin-right: 20px;
+	border-color: aliceblue;
+	border-style: solid;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font: bold;
+}
+
+.aa {
+	width: 32.3%;
+	height: 50PX;
+	border-width: 1px 0px 1px 0px;
+	border-color: aliceblue;
+	border-style: solid;
+	margin: 3px 20px 3px 40px;
+	PADDING: 3px 10px 3px 30px;
+}
+
+.aa a img {
+	width: 35px;
+	height: 50px;
+	-webkit-transition: width 1s;
+	tranistion: width 1s;
+}
+
+iframe {
+	width: 300px;
+	height: 200px;
+	margin: 69px 5px 3px 100px;
+	border: none;
+}
+
+strong {
+	float: right;
+	font-weight: bold;
+}
+
+.aa a img:hover {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	z-index: 2;
+}
